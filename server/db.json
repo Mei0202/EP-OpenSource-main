@@ -1,0 +1,34 @@
+{
+  "food-trucks": [
+    {
+      "id": 1,
+      "ownerFirstName": "John",
+      "ownerLastName": "Doe",
+      "brandName": "bhgh",
+      "email": "bro.foodtruck@gmail.com",
+      "address": "7071 Kent Street, Brooklyn, NY 11215",
+      "websiteUrl": "https://www.carlitostacos.com",
+      "menuUrl": "https://www.carlitostacos.com/menus/"
+    },
+    {
+      "id": 2,
+      "ownerFirstName": "Martin",
+      "ownerLastName": "Woo",
+      "brandName": "nb",
+      "email": "asianfoodcorner@gmail.com",
+      "address": "759 Rockwell Lane, East Elmhurst, NY 11370",
+      "websiteUrl": "https://www.elsursf.com",
+      "menuUrl": "https://www.elsursf.com/our-menu/"
+    },
+    {
+      "id": 3,
+      "ownerFirstName": "Nora",
+      "ownerLastName": "Velasco",
+      "brandName": "The Tacomania Truck",
+      "email": "nora.tacomania@gmail.com",
+      "address": "44 Manchester Dr., New York, NY 10002",
+      "websiteUrl": "https://www.tmifoodtruck.com",
+      "menuUrl": "https://www.tmifoodtruck.com/our-food"
+    }
+  ]
+}
